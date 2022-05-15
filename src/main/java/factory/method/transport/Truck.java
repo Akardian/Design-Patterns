@@ -1,6 +1,6 @@
-package factory.transport;
+package factory.method.transport;
 
-import factory.Transport;
+import factory.method.Transport;
 
 public class Truck implements Transport {
 

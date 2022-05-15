@@ -1,10 +1,11 @@
 package factory;
 
-import factory.logistic.*;
+import factory.method.Logistics;
+import factory.method.logistic.*;
 import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.*;
 
-class factoryTest {
+class MethodTest {
 
     @Test
     @DisplayName("TruckDelivery")

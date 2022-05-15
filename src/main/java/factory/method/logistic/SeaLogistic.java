@@ -1,8 +1,8 @@
-package factory.logistic;
+package factory.method.logistic;
 
-import factory.Logistics;
-import factory.Transport;
-import factory.transport.Ship;
+import factory.method.Logistics;
+import factory.method.Transport;
+import factory.method.transport.Ship;
 
 public class SeaLogistic extends Logistics {
 
